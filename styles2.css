@@ -119,6 +119,7 @@ p {
 
 }
 
+
 .sau {
     padding: 30px;
     background: #1f1d1d;
@@ -156,7 +157,8 @@ p {
 .about {
     padding-top: 5%;
     padding-bottom: 5%;
-    background: #171717;
+    background: url(energyRFID/ABOUT_US_main_Final_Final.webp)no-repeat center;
+    background-size: cover;
 }
 .price {
     background: url(energyRFID/Mesa_de_trabajo_18_fc48377e-6723-4d6a-bcdc-78050d17c7a8.webp) no-repeat center ;

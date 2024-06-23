@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     width: 100%;
     text-transform: uppercase;
-    background: #779d4e;
+    background:url(energyRFID/fondo-degradado-tonos-verdes_23-2148388109\ \(1\).avif) #779d4e;
     background-size: cover;
     padding-top: 200px;
     padding-bottom: 200px;
@@ -11,15 +11,21 @@ body {
 
 .login-form {
 
+    justify-content: ;
+
+    
+
     width: 100px;
     margin: 0 auto;
-    background:url(img/Voran-430-440-finales-estudio-kobe-41.webp) no-repeat 0px 60px;
+    background:url(energyRFID/Voran-430-440-finales-estudio-kobe-41.webp) no-repeat center;
     background-size: cover;
     background-position: center;
     padding: 250px 250px 67px;
     border-top: 6px solid #525d54;
     box-shadow: 3.4px 8.5px 10.3px -1.1px;
     border-radius: 20px;
+   
+
 
 }
 
@@ -35,7 +41,8 @@ h1 {
 }
 
 form {
-
+    
+    width: 200px;
     margin: 0 auto;
 
 }
@@ -50,7 +57,8 @@ form p {
 }
 
 .login-form form input[type="text" ], input[type="password"]{
-
+    
+    
     outline: none;
     font-size: 20px;
     color: #0d0202;
